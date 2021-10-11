@@ -82,7 +82,7 @@ Classifying toxic online comments.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Things you need to use the software.
 * Python
 * Jupyter notebook
 * Poetry
@@ -91,6 +91,11 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
+Follow these steps to install create a virtual environment and activate it in Jupyter.
+* In this project's repository, execute ``poetry install``, which creates a virtual environment based on the pyproject.toml file
+* Activate the virtual environment with ``poetry shell``
+* If you need any new dependecies, e.g., ``nltk``, execute `poetry add nltk`. 
+* To run the notebook with this environment, execute ``poetry run jupyter notebook``
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

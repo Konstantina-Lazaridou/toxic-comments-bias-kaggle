@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "toxic-comments-bias-kaggle"
+version = "0.1.0"
+description = "code for toxic comment classification with bias"
+authors = ["konstantina <konstantinacs29@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy = "*"
+pandas = "*"
+tqdm = "*"
+torch = "*"
+jupyter = "^1.0.0"
+keras = "^2.6.0"
+tensorflow = "^2.6.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

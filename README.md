@@ -20,14 +20,6 @@
   <p align="center">
     Reproducing the solution by https://www.kaggle.com/bminixhofer/simple-lstm-pytorch-version.
     <br />
-    <strong>Explore the docs »</strong>
-    <br />
-    <br />
-    View Demo
-    ·
-    Report Bug
-    ·
-    Request Feature
   </p>
 </div>
 

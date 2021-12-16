@@ -18,7 +18,7 @@
 <h3 align="center">Classifying toxic online comments</h3>
 
   <p align="center">
-    Reproducing the solution by https://www.kaggle.com/bminixhofer/simple-lstm-pytorch-version.
+    Reproducing the solution by <a href="https://www.kaggle.com/bminixhofer/simple-lstm-pytorch-version">Simple LSTM - PyTorch version</a>.
     <br />
   </p>
 </div>

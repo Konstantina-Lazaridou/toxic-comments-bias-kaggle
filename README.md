@@ -80,7 +80,7 @@ Classifying toxic online comments.
 Things you need to use the software.
 * Python
 * Jupyter notebook
-* Poetry
+* Poetry (`pip` install did not work out on Ubuntu 20.04, [curl](https://pypi.org/project/poetry/) install worked after executing `source $HOME/.poetry/env` as well)
 * Text data by https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview
 * Embeddings by https://nlp.stanford.edu/projects/glove/ and https://fasttext.cc/docs/en/english-vectors.html
 

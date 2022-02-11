@@ -18,7 +18,7 @@
 <h3 align="center">Classifying toxic online comments</h3>
 
   <p align="center">
-    Reproducing the solution by https://www.kaggle.com/bminixhofer/simple-lstm-pytorch-version.
+    Reproducing the solution by <a href="https://www.kaggle.com/bminixhofer/simple-lstm-pytorch-version">Simple LSTM - PyTorch version</a>.
     <br />
   </p>
 </div>
@@ -80,9 +80,9 @@ Classifying toxic online comments.
 Things you need to use the software.
 * Python
 * Jupyter notebook
-* Poetry
-* Text data by https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview
-* Embeddings by https://nlp.stanford.edu/projects/glove/ and https://fasttext.cc/docs/en/english-vectors.html
+* Poetry (`pip` install did not work out on Ubuntu 20.04, [curl](https://pypi.org/project/poetry/) install worked after executing `source $HOME/.poetry/env` as well)
+* Text data by [Kaggle](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview)
+* Embeddings by [Stanford](https://nlp.stanford.edu/projects/glove/) and [Facebook](https://fasttext.cc/docs/en/english-vectors.html)
 
 ### Installation
 
